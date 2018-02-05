@@ -1,0 +1,24 @@
+{
+  "name": "pulltorefresh-vue",
+  "version": "1.0.1",
+  "description": "vue 版本的 pull to refresh",
+  "main": "src/index.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuhuiashazj/pulltorefresh-vue.git"
+  },
+  "keywords": [
+    "pull",
+    "to",
+    "refresh"
+  ],
+  "author": "liuhui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuhuiashazj/pulltorefresh-vue/issues"
+  },
+  "homepage": "https://github.com/liuhuiashazj/pulltorefresh-vue#readme"
+}
