@@ -23,7 +23,7 @@ addMore: loadmore callback, used to loadmore data to the lists
 hasMore: if there has more data, used to show pull up icon or 'nomore' message
 ```
 
-#Usage
+# Usage
 ``` html
 <template>
     <PullToRefresh
